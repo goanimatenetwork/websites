@@ -1,0 +1,48 @@
+
+
+@font-face {
+    font-family: Gotham;
+    src: url(Corefont.ttf);
+}
+
+body {
+    background-color: black;
+}
+
+ul {
+    background-color: rgb(21, 25, 27);
+    padding: 2;
+    margin: 10px;
+    text-align: left;
+    justify-content: space-evenly;
+    font-family: Gotham;
+    width: 450px;
+    inline-size: auto;
+}
+
+h1 {
+    color: white;
+    font-family: Gotham;
+}
+
+li {
+    display: flex;
+    background-color: white;
+    text-align: left;
+    margin: 10px;
+    padding: 0;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+div {
+    height: 100px;
+}
+
+
+
+div:hover {
+    cursor: pointer;
+    opacity: 0.5;
+
+}

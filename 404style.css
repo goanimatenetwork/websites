@@ -1,0 +1,10 @@
+body {
+    background-color: #161717;
+}
+
+canvas {
+    background-color: rgb(95, 95, 95);
+    border-radius: 1px;
+    border-color: white;
+    border-style: solid;
+}

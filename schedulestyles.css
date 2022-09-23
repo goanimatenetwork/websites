@@ -1,0 +1,36 @@
+@font-face {
+    font-family: Gotham;
+    src: url(Gotham-Font/Gotham-Font/GothamLight.ttf);
+}
+
+body {
+    background-color: black;
+}
+
+h1 {
+    color: white;
+    font-family: Gotham;
+    text-align: left;
+}
+p {
+    text-align: center;
+    color: white;
+    font-family: Gotham;
+    font-size: small;
+    text-align: left;
+    padding: 5px;
+}
+
+h2 {
+    color: white;
+    font-family: Gotham;
+    text-align: center;
+    font-size: xx-large;
+}
+
+canvas {
+    background-color: rgb(51, 51, 51);
+    border: 3px solid white;
+    width: 250px;
+    height: 1000px;
+}

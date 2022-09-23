@@ -1,0 +1,25 @@
+@font-face {
+    font-family: Gotham;
+    src: url(GothamBold.ttf);
+}
+
+body {
+    background-color: black;
+}
+
+ul {
+    background-color: rgb(21, 25, 27);
+    padding: 0.5px;
+    margin: 0.5px;
+    text-align: left;
+    justify-content: space-evenly;
+    font-family: Gotham;
+    width: 100%;
+    inline-size: auto;
+}
+
+h1 {
+    color: white;
+    font-family: Gotham;
+}
+
